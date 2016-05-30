@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "03C89672569866E72FD878F5410D52ECE01D91C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F650963659C313C5BE1214E5CA00076E30F11D51" : 0,
+    "03C89672569866E72FD878F5410D52ECE01D91C1" : 0,
+    "852ED3691A47A99B0D19C820A500AE9772B2A44E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5E761B22-CBCE-4F1C-A7BF-BF5CF11079EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F650963659C313C5BE1214E5CA00076E30F11D51" : "GameFrame\/client\/3rd\/pbc\/",
+    "03C89672569866E72FD878F5410D52ECE01D91C1" : "GameFrame\/",
+    "852ED3691A47A99B0D19C820A500AE9772B2A44E" : "GameFrame\/client\/cocos2d-x\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GameClient",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "client\/GameClient\/frameworks\/runtime-src\/proj.ios_mac\/GameClient.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xzben\/GameFrame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "03C89672569866E72FD878F5410D52ECE01D91C1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cocos2d\/cocos2d-x.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "852ED3691A47A99B0D19C820A500AE9772B2A44E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cloudwu\/pbc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F650963659C313C5BE1214E5CA00076E30F11D51"
+    }
+  ]
+}
